@@ -1,4 +1,4 @@
-## WALRUS. First testnet on SUI.
+## [WALRUS](https://www.walrus.xyz/). First testnet on SUI.
 
 ![image](https://github.com/user-attachments/assets/f502421f-992b-4a39-9205-3c57ad74211b)
 
