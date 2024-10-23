@@ -4,6 +4,10 @@
 
 Walrus is a decentralized storage network that allows you to store and transmit raw data and media files—videos, images, and PDFs—without compromising performance and accessibility. With Walrus, your data is always secure and available.
 
+Also Walrus opened a [quest on Galxe](https://app.galxe.com/quest/Walrus/GCW4GtxnAo?referral_code=GRFr2JUzJim8VD6o5t8KpWgvZZv6KrNa8IIwr3-8DeO8GjK), where we can complete tasks and get NFT. Answers to the Quiz: B, C, B, A. A minimum balance of 1 SUI is required for NFT.
+![image](https://github.com/user-attachments/assets/6dfbb3d4-8f59-4b7a-beba-9fd776c92a41)
+
+
 ## [WALRUS Testnet](https://www.walrus.xyz/build-on-walrus). What activities are available?
 
 ![image](https://github.com/user-attachments/assets/2a0c3825-bc9c-47b1-90ba-6dbd62876d3c)
